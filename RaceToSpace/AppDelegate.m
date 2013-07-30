@@ -3,7 +3,7 @@
 //  RaceToSpace
 //
 //  Created by Erick Bennett on 6/26/13.
-//  Copyright (c) 2013 Erick Bennett. All rights reserved.
+//  Copyright (c) 2013 Burnside Digital. All rights reserved.
 //
 
 #import "AppDelegate.h"
